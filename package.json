@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lucasjacques/clean-react-mango/issues"
   },
-  "homepage": "https://github.com/lucasjacques/clean-react-mango#readme"
+  "homepage": "https://github.com/lucasjacques/clean-react-mango#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
