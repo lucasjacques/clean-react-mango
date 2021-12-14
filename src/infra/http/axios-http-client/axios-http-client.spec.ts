@@ -1,6 +1,7 @@
-import { HttpPostParams } from '@/data/protocols/http'
 import axios from 'axios'
 import faker, { random } from 'faker'
+
+import { HttpPostParams } from '@/data/protocols/http'
 
 import { AxiosHttpClient } from './axios-http-client'
 
