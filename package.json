@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lucasjacques/clean-react-mango#readme",
   "devDependencies": {
+    "@testing-library/react": "^12.1.3",
     "@types/axios": "^0.14.0",
     "@types/faker": "^5.5.8",
     "@types/jest": "^27.0.1",
