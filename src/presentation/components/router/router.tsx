@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Login } from '@/presentation/pages'
-import { ValidationSpy } from '@/presentation/pages/login/login.spec'
+import { ValidationSpy } from '@/presentation/test'
 
 const Router: React.FC = () => {
   const validationSpy = new ValidationSpy()
